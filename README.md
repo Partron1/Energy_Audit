@@ -26,8 +26,12 @@ The audit will provide:
 - Monitoring and verification plan
 
 ### Benefits to Client
-Benefit 	                    Description
-Reduce operating cost 	        Lower utility expenses
+|       Benefit        |    Description        |
+|----------------------|-----------------------|
+| Reduce operatingcost              |                       |
+|                      |                       |
+ 	                   
+ 	        Lower utility expenses
 Improve efficiency 	            Better equipment performance
 Sustainability improvement 	    Reduce environmental impact
 Risk reduction 	         Lower exposure to future energy price increase

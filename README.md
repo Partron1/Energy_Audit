@@ -33,12 +33,7 @@ The audit will provide:
 |Risk reduction | Lower exposure to future energy price increase|
 | Lower exposure to future energy price increase |  Lower exposure to future energy price increase |
  	                   
- 	       
- 	           
-	   
-	        
-
-
+ 	
 ### Pre-audit Planning 
 For Tekstain Nexus, the pre-audit plan ensures that audit is efficient, accurate, and focused on identifying meaningful energy-saving opportunities.
 **Project Kick-off meeting**

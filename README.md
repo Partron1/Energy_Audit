@@ -28,12 +28,14 @@ The audit will provide:
 ### Benefits to Client
 |       Benefit        |    Description        |
 |----------------------|-----------------------|
-| Reduce operatingcost              |                       |
-|                      |                       |
+| Reduce operating cost              |      Lower utility expenses                  |
+|      Improve efficiency                |    Better equipment performance                    |
+|Risk reduction | Lower exposure to future energy price increase|
+| Lower exposure to future energy price increase |  Lower exposure to future energy price increase |
  	                   
- 	        Lower utility expenses
-Improve efficiency 	            Better equipment performance
-Sustainability improvement 	    Reduce environmental impact
-Risk reduction 	         Lower exposure to future energy price increase
-Better decision making 	Data-driven investment planning 
+ 	       
+ 	           
+	   
+	        
+
 

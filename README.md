@@ -40,3 +40,25 @@ For Tekstain Nexus, the pre-audit plan ensures that audit is efficient, accurate
 - **Objective:** Is to introduce project team, define project objectives, confirm facility scope, establish communication channels and agree project schedule.
 - **Stakeholders:** Business Owner, Facility manager, Operations Manager, Finance Representative and Maintenance Personnel.  
 - **Deliverable:** Project Charter
+
+
+### Stakeholder interviews
+Stakeholder Interview summary
+|          Operational Information        |Energy Mgt. Practices                  |Challenges	Deliverables                  |  
+|-----------------|------------------|------------------|
+|  Working hours               |Existing energy policies                  |Equipment maintenance schedules                  |Equipment maintenance schedules
+|  Shift Schedule               |                  |High electricity bills                  |Production activities
+|  Seasonal variations               |                  | Equipment reliability concerns                 |
+|                 |                  | Occupant comfort issues                 |
+	
+		
+	
+
+
+
+		
+	
+		
+	
+
+			

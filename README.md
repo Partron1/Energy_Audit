@@ -51,7 +51,44 @@ Stakeholder Interview summary
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	
-		
+### Utility data collection 
+Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs. 
+
+### Equipment and Inventory Development 
+
+### Audit Tools: 
+Clamp Meter, Power Analyzer, Lux Meter, Infrared Thermometer, temperature logger, Camera and data collection forms.  
+
+### On-site Energy Audit process
+- This section provides a facility walkthrough to understand facility layout, observe operations, identify energy intensive areas and verify equipment inventory.
+- Data Gathering 
+- Measurements and Monitoring
+**Electrical Parameters:** Voltage, Current, Power Factor, Real Power(kW) and Energy Consumption(kWh)
+**Environmental Parameters:** Indoor temperature, Humidity and Lighting levels
+
+### Identify Major Energy Users
+We ranked systems according to energy consumptions.
+
+### Documentations 
+We performed documentations which included collecting photographs, equipment records, maintenance records and observations.
+
+### Energy Consumption Analysis
+- Establish Energy Baseline
+We developed baseline using; Energy consumption = Annual kWh usage
+Baseline indicators: kWh/month, kWh/employee, kWh/m2, kWh/unit produced   
+
+### Load Profiling  
+A load profiling analysis was conducted to assess electricity consumption patterns throughout the facility's operating hours. This includes the analysis of daily usage pattern, peak demand periods and seasonal variation
+
+### Energy Performance Assessment 
+A Performance Assessment Matrix was developed to evaluate the energy performance of key systems within the facility.
+
+### Bench Marking
+Benchmarking analysis was conducted to compare the facility's energy performance against industry standards. So, we compared facility performance against industry averages, similar businesses and historical performances. 
+
+### Identification of Energy loses 
+We identified various areas of energy loses.
+
 	
 
 

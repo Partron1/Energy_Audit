@@ -47,7 +47,7 @@ Stakeholder Interview summary
 |          Operational Information        |Energy Mgt. Practices                  |Challenges	Deliverables                  |  
 |-----------------|------------------|------------------|
 |  Working hours               |Existing energy policies                  |Equipment maintenance schedules                  |Equipment maintenance schedules
-|  Shift Schedule               |                  |High electricity bills                  |Production activities
+|  Shift Schedule               | Utility management practices                 |High electricity bills                  |Production activities
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	

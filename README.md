@@ -1,5 +1,5 @@
 ## Energy Auditing Overview
-```
+```text
 energy-audit-system/
 ├── README.md
 ├── docs/

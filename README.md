@@ -54,6 +54,7 @@ The audit will provide:
  	
 ### Pre-audit Planning 
 For Tekstain Nexus, the pre-audit plan ensures that audit is efficient, accurate, and focused on identifying meaningful energy-saving opportunities.
+
 **Project Kick-off meeting**
 - **Objective:** Is to introduce project team, define project objectives, confirm facility scope, establish communication channels and agree project schedule.
 - **Stakeholders:** Business Owner, Facility manager, Operations Manager, Finance Representative and Maintenance Personnel.  

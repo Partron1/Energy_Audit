@@ -111,10 +111,10 @@ We identified various areas of energy loses.
 
 | No-Coat measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
 |----------------|-------------------|--------------------|
-| Switch-off campaigns               | Occupancy sensors                  |                    |
-| Optimize operating scheduels               | Smart power strips                  |                    |
-| Thermostat adjustments              |LED retrofits                   |                    |
-| Improved maintainace practices               | Timer controls                  |                    |
+| Switch-off campaigns               | Occupancy sensors                  |High-efficiency Motors                    |
+| Optimize operating scheduels               | Smart power strips                  | Variable Frequency Drivers(VFDs)                   |
+| Thermostat adjustments              |LED retrofits                   | Effiecncy HVAC Systems                   |
+| Improved maintainace practices               | Timer controls                  |Energy Management Systems                    |
 
 	
 

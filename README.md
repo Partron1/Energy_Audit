@@ -89,6 +89,15 @@ Benchmarking analysis was conducted to compare the facility's energy performance
 ### Identification of Energy loses 
 We identified various areas of energy loses.
 
+## Energy Conservation Opportunities (ECOs)
+
+| No-Coat measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
+|----------------|-------------------|--------------------|
+| Switch-off campaigns               | Occupancy sensors                  |                    |
+| Optimize operating scheduels               | Smart power strips                  |                    |
+| Thermostat adjustments              |LED retrofits                   |                    |
+| Improved maintainace practices               | Timer controls                  |                    |
+
 	
 
 

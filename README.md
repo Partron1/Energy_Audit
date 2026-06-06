@@ -117,6 +117,11 @@ We identified various areas of energy loses.
 | Improved maintainace practices               | Timer controls                  |Energy Management Systems                    |
 
 	
+## Renewable Energy Opportunities 
+- Evaluated Solar PV, Solar water heating and Battery storage.
+
+- Behavioural Improvement (Energy conservation opportunity register)  
+E.g. Staff awareness training, energy champion programs and energy reporting dashboards. 
 
 
 

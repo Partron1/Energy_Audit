@@ -1,5 +1,20 @@
 ## Energy Auditing Overview
-
+```text
+Energy_Audit/
+├── assets/
+├── data/
+├── docs/
+│   ├── Project_Charter.md
+│   ├── Requirements.md
+│   ├── Audit_Methodology.md
+│   └── User_Guide.md
+├── images/
+├── reports/
+├── softwares/
+├── .gitattributes
+├── LICENSE
+└── README.md
+```
 ### Purpose
 The purpose of this energy audit was to systematically evaluate the facility's energy consumption patterns, identify energy inefficiencies, quantify potential savings opportunities, and develop a practical roadmap for reducing energy costs while improving operational sustainability.
 

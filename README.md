@@ -1,22 +1,5 @@
 ## Energy Auditing Overview
-```text
-energy-audit-system/
-├── README.md
-├── docs/
-│   ├── Project_Charter.md
-│   ├── Requirements.md
-│   ├── Audit_Methodology.md
-│   ├── Benchmarking_Guide.md
-│   └── User_Guide.md
-├── data/
-│   ├── templates/
-│   └── sample-data/
-├── reports/
-├── assets/
-│   └── screenshots/
-├── src/
-└── tests/
-```
+
 ### Purpose
 The purpose of this energy audit was to systematically evaluate the facility's energy consumption patterns, identify energy inefficiencies, quantify potential savings opportunities, and develop a practical roadmap for reducing energy costs while improving operational sustainability.
 
@@ -54,6 +37,7 @@ The audit will provide:
  	
 ### Pre-audit Planning 
 For Tekstain Nexus, the pre-audit plan ensures that audit is efficient, accurate, and focused on identifying meaningful energy-saving opportunities.
+
 **Project Kick-off meeting**
 - **Objective:** Is to introduce project team, define project objectives, confirm facility scope, establish communication channels and agree project schedule.
 - **Stakeholders:** Business Owner, Facility manager, Operations Manager, Finance Representative and Maintenance Personnel.  
@@ -92,8 +76,11 @@ We performed documentations which included collecting photographs, equipment rec
 
 ### Energy Consumption Analysis
 - Establish Energy Baseline
-We developed baseline using; Energy consumption = Annual kWh usage
-Baseline indicators: kWh/month, kWh/employee, kWh/m2, kWh/unit produced   
+We developed baseline using;
+
+**Energy consumption** = Annual kWh usage
+
+**Baseline indicators:** kWh/month, kWh/employee, kWh/m2, kWh/unit produced   
 
 ### Load Profiling  
 A load profiling analysis was conducted to assess electricity consumption patterns throughout the facility's operating hours. This includes the analysis of daily usage pattern, peak demand periods and seasonal variation
@@ -109,7 +96,7 @@ We identified various areas of energy loses.
 
 ## Energy Conservation Opportunities (ECOs)
 
-| No-Coat measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
+| No-Cost measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
 |----------------|-------------------|--------------------|
 | Switch-off campaigns               | Occupancy sensors                  |High-efficiency Motors                    |
 | Optimize operating scheduels               | Smart power strips                  | Variable Frequency Drivers(VFDs)                   |
@@ -126,15 +113,19 @@ E.g. Staff awareness training, energy champion programs and energy reporting das
 
 ## Financial Evaluation 
 - Annual Energy Savings:
+  
 **Energy Savings** = Baseline Consumption – Projected Consumption
 
 - Annual Cost Savings:
+  
 **Cost Savings** = Energy Savings × Tariff
 
 - Payback Period
+  
 **Payback** = Project Cost ÷ Annual Savings
 
 - Return on Investment
+  
 **ROI** = (Annual Savings ÷ Project Cost) × 100
 
 - Evaluation Table

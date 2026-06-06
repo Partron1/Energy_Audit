@@ -65,6 +65,7 @@ Clamp Meter, Power Analyzer, Lux Meter, Infrared Thermometer, temperature logger
 - This section provides a facility walkthrough to understand facility layout, observe operations, identify energy intensive areas and verify equipment inventory.
 - Data Gathering 
 - Measurements and Monitoring
+  
 **Electrical Parameters:** Voltage, Current, Power Factor, Real Power(kW) and Energy Consumption(kWh)
 **Environmental Parameters:** Indoor temperature, Humidity and Lighting levels
 

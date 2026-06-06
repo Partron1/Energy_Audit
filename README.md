@@ -126,15 +126,19 @@ E.g. Staff awareness training, energy champion programs and energy reporting das
 
 ## Financial Evaluation 
 - Annual Energy Savings:
+  
 **Energy Savings** = Baseline Consumption – Projected Consumption
 
 - Annual Cost Savings:
+  
 **Cost Savings** = Energy Savings × Tariff
 
 - Payback Period
+  
 **Payback** = Project Cost ÷ Annual Savings
 
 - Return on Investment
+  
 **ROI** = (Annual Savings ÷ Project Cost) × 100
 
 - Evaluation Table

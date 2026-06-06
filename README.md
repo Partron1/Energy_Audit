@@ -92,8 +92,11 @@ We performed documentations which included collecting photographs, equipment rec
 
 ### Energy Consumption Analysis
 - Establish Energy Baseline
-We developed baseline using; Energy consumption = Annual kWh usage
-Baseline indicators: kWh/month, kWh/employee, kWh/m2, kWh/unit produced   
+We developed baseline using;
+
+**Energy consumption** = Annual kWh usage
+
+**Baseline indicators:** kWh/month, kWh/employee, kWh/m2, kWh/unit produced   
 
 ### Load Profiling  
 A load profiling analysis was conducted to assess electricity consumption patterns throughout the facility's operating hours. This includes the analysis of daily usage pattern, peak demand periods and seasonal variation
@@ -109,7 +112,7 @@ We identified various areas of energy loses.
 
 ## Energy Conservation Opportunities (ECOs)
 
-| No-Coat measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
+| No-Cost measures                | Low-Cost Measures                  |Capital Intensive Measures                    |
 |----------------|-------------------|--------------------|
 | Switch-off campaigns               | Occupancy sensors                  |High-efficiency Motors                    |
 | Optimize operating scheduels               | Smart power strips                  | Variable Frequency Drivers(VFDs)                   |

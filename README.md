@@ -15,6 +15,8 @@ Energy_Audit/
 ├── LICENSE
 └── README.md
 ```
+### Proposal 
+Click link:[View Proposal] (https://www.figma.com/make/inNQbj2PFoBOxAY3QEkosS/Energy-Audit-Proposal?fullscreen=1&t=fKG2H4OkHSBMAd5P-1&code-node-id=0-9)
 ### Purpose
 The purpose of this energy audit was to systematically evaluate the facility's energy consumption patterns, identify energy inefficiencies, quantify potential savings opportunities, and develop a practical roadmap for reducing energy costs while improving operational sustainability.
 

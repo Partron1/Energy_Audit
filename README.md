@@ -71,14 +71,14 @@ Stakeholder Interview summary
 	
 ![CompanyProfile](images/CompanyProfile.png)
 
-### Utility data collection 
+### Energy Utility data collection 
 Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs. 
 
 ![CoolingInventory](images/CoolingInvent.png)
 
 ![LighteningInventory](images/Lightening.png)
 
-### Equipment and Inventory Development
+### Equipment Energy Inventory Development
 
 ![EquipmentInventory](images/EquipmentInvent.png)
 

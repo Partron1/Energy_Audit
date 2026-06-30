@@ -69,7 +69,7 @@ Stakeholder Interview summary
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	
-!(CompanyProfile)[images/CompanyProfile.png]
+![CompanyProfile](images/CompanyProfile.png)
 
 ### Utility data collection 
 Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs. 

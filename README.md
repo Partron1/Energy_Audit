@@ -69,10 +69,18 @@ Stakeholder Interview summary
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	
+!(CompanyProfile)[images/CompanyProfile.png]
+
 ### Utility data collection 
 Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs. 
 
-### Equipment and Inventory Development 
+!(CoolingInventory)[images/CoolingInvent.png]
+
+!(LighteningInventory)[images/Lightening.png]
+0
+### Equipment and Inventory Development
+
+!(EquipmentInventory)[images/EquipmentInvent.png]
 
 ### Audit Tools: 
 Clamp Meter, Power Analyzer, Lux Meter, Infrared Thermometer, temperature logger, Camera and data collection forms.  
@@ -151,7 +159,8 @@ E.g. Staff awareness training, energy champion programs and energy reporting das
 |-----------|-----------|------------|-----------|-------------|
 |           |           |            |           |             |
 		
-	
+### Energy Summary
+!(EnergySummary)[images/EnergySummary.png]
 **Proposal** 
 Click link:[View Proposal](https://www.figma.com/make/inNQbj2PFoBOxAY3QEkosS/Energy-Audit-Proposal?fullscreen=1&t=fKG2H4OkHSBMAd5P-1&code-node-id=0-9)		
 	

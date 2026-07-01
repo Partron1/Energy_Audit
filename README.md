@@ -69,6 +69,8 @@ Stakeholder Interview summary
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	
+### Company profile
+
 ![CompanyProfile](images/CompanyProfile.png)
 
 ### Energy Utility data collection 

@@ -69,22 +69,6 @@ Stakeholder Interview summary
 |  Seasonal variations               |                  | Equipment reliability concerns                 |
 |                 |                  | Occupant comfort issues                 |
 	
-### Company profile
-
-![CompanyProfile](images/CompanyProfile.png)
-
-*Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs.* 
-
-### Energy Utility data collection 
-
-![CoolingInventory](images/CoolingInvent.png)
-
-![LighteningInventory](images/Lightening.png)
-
-### Equipment Energy Inventory Development
-
-![EquipmentInventory](images/EquipmentInvent.png)
-
 ### Audit Tools: 
 Clamp Meter, Power Analyzer, Lux Meter, Infrared Thermometer, temperature logger, Camera and data collection forms.  
 
@@ -121,6 +105,22 @@ Benchmarking analysis was conducted to compare the facility's energy performance
 
 ### Identification of Energy loses 
 We identified various areas of energy loses.
+
+### Company profile
+
+![CompanyProfile](images/CompanyProfile.png)
+
+*Four different data sets were collected included electricity bills (12-24 months), fuel consumption records, generator fuel logs and utility tariffs.* 
+
+### Energy Utility data collection 
+
+![CoolingInventory](images/CoolingInvent.png)
+
+![LighteningInventory](images/Lightening.png)
+
+### Equipment Energy Inventory Development
+
+![EquipmentInventory](images/EquipmentInvent.png)
 
 ## Energy Conservation Opportunities (ECOs)
 

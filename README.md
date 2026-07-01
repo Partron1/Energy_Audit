@@ -1,8 +1,7 @@
 ## Energy Auditing Overview
 ```text
 Energy_Audit/
-├── assets/
-├── data/
+├── softwares/
 ├── docs/
 │   ├── Project_Charter.md
 │   ├── Requirements.md
@@ -10,7 +9,6 @@ Energy_Audit/
 │   └── User_Guide.md
 ├── images/
 ├── reports/
-├── softwares/
 ├── .gitattributes
 ├── LICENSE
 └── README.md
